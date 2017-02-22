@@ -1,0 +1,14 @@
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\Console.exe.config
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\Console.exe
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\Console.pdb
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\obj\Debug\Console.exe
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\obj\Debug\Console.pdb
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\Accounts.txt
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\log4net.dll
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\Meebey.SmartIrc4net.dll
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\StarkSoftProxy.dll
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\log4net.xml
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\Cleverbot.Net.dll
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\Newtonsoft.Json.dll
+c:\users\a.ignatyev.als\documents\visual studio 2015\Projects\Console\Console\bin\Debug\Newtonsoft.Json.xml
